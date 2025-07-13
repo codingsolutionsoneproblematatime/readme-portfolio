@@ -6,7 +6,7 @@ This GitHub account contains private repositories related to:
 - Automating work flows
 - Data engineering pipelines
 - Dashboard development
-- Scripting (SQL, PowerShell, T-SQL)
+- Scripting (SQL, T-SQL, PowerShell)
 
 To request access to specific projects or code samples, please contact me at: nico@pradenas.net
 
